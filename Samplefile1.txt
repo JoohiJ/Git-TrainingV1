@@ -1,3 +1,8 @@
+
 This is sample file 2.
 
 Dogecoin is a cryptocurrency which is created by software engineers Billy Markus and Jackson Palmer, who decided to create a payment system that is free from traditional banking fees.
+
+This is sample file 2.i
+
+This is sample file 1.
