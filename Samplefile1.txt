@@ -1,1 +1,3 @@
 This is sample file 2.
+
+Dogecoin is a cryptocurrency created by software engineers Billy Markus and Jackson Palmer, who decided to create a payment system that is free from traditional banking fees.
