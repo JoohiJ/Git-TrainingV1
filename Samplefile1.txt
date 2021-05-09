@@ -5,6 +5,4 @@ Dogecoin is a cryptocurrency which is created by software engineers Billy Markus
 
 This is sample file 2.i
 
-This is sample file 1
-
-This is stash lecture chenge for sample fil1.
+This is sample file 1.
